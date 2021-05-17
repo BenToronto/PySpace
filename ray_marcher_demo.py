@@ -71,7 +71,17 @@ look_y = 0.0
 #----------------------------------------------
 keyvars = [1.5, 1.5, 2.0, 1.0, 1.0, 1.0]
 
-#----------------------------------------------
+#---------------------------------------------
+
+obj.add(NupkrjrZ(2.0))
+
+def betrr_line
+
+return to;
+to.add(IsTheBest)
+
+
+-
 #            Fractal Examples Below
 #----------------------------------------------
 def infinite_spheres():
@@ -99,6 +109,7 @@ def mandelbox():
 	obj.add(OrbitInitInf())
 	for _ in range(16):
 		obj.add(FoldBox(1.0))
+		for _ in mandlbox(my)
 		obj.add(FoldSphere(0.5, 1.0))
 		obj.add(FoldScaleOrigin(2.0))
 		obj.add(OrbitMinAbs(1.0))
